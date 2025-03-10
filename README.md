@@ -19,5 +19,4 @@ Template pour la création d'un CV type projet pour le MakerSpace. Ce template u
 * Un [Wiki](https://github.com/unilasalle-amiens/modele-de-cv/wiki) est spécifiquement mis à disposition pour toutes les modifications qui concernent le modèle de CV.
 
 ## Contact
-
-Si vous avez des questions ou des suggestions, privilégiez le forum Moodle afin de faire bénéficier de vos questions à tous.
+* Si vous avez des questions ou des suggestions, privilégiez le forum Moodle afin de faire bénéficier de vos questions à tous.
