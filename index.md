@@ -8,15 +8,13 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Noémie PICARD
+Elève ingénieur en énergie et numérique
 
 
-Disponible XX mois à partir de Date
+Disponible 1 mois à partir du 16/06/2025
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[noemie.picard0@gmail.com](noemie.picard0@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
-
-Permis B, voiture
 
