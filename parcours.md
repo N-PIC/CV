@@ -8,26 +8,22 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2029`
+**UniLaSalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
+Elève ingénieur en énergie et numérique.
 * Cours : préciser les cours en phase avec le poste visé
-
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
-
+* 
 `20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+Bac mathématiques et physique-chimie, option mathématiques expertes, mention bien, Péronne
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`20XX` **Projet d’étude – Robot Otto**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Réalisé en équipe de 3 étudiants_
+* Impression des pièces en 3D(imprimante 3D)
+* Programmation des différents (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
 
